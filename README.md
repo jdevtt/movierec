@@ -30,7 +30,7 @@ movierec<br>
 
 # Getting Started
 1. Clone the repository:
-git clone https://github.com/your-username/movie-recommendation.git
+git clone https://github.com/jdevtt/movierec.git
 2. Install dependencies:
 npm install
 3. Start the server:
